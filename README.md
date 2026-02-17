@@ -1,3 +1,5 @@
-<h2 align="center">
-  Hi there! I'm Siegenetics404 <span><img src="assets/hi.gif" width="80" style="vertical-align: middle; margin-left: 8px;" /></span>
-</h2>
+<p align="center">
+  <img src="assets/smash.gif" width="120" />
+  <img src="assets/hi.gif" width="120" />
+  <img src="assets/punch.gif" width="120" />
+</p>
